@@ -1,1 +1,24 @@
+body {
+  background-color:green;
+}
 
+h1 {
+  background-color:DarkGreen; 
+  color: LightGreen; 
+  solid black; 
+  padding: 10px;
+}
+
+h2 {
+  background-color:DarkGreen; 
+  color: LightGreen; 
+  solid black; 
+  padding: 10px;
+}
+
+p {
+  background-color:DarkGreen; 
+  color: LightGreen; 
+  solid black; 
+  padding: 10px;
+}
